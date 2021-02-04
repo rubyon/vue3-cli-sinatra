@@ -1,0 +1,9 @@
+/*
+!.gitignore
+!app/
+app/public/
+!Gemfile
+!Procfile
+!vue.config.js
+!start.sh
+!README.md
